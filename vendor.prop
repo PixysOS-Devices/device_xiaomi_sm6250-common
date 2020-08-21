@@ -187,6 +187,9 @@ media.stagefright.enable-scan=true
 media.stagefright.thumbnail.prefer_hw_codecs=true
 vendor.mm.enable.qcom_parser=63963135
 
+# Netflix
+ro.netflix.bsp_rev=Q6250-19132-1
+
 # PASR
 vendor.power.pasr.enabled=true
 
